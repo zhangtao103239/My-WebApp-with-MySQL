@@ -11,6 +11,7 @@ BTW, the Digital Ocean`s Droplets are really good.
 
 
 The page is very easy, and this is just a model, cannot do any real work.(Log In or sign up)
-
+You can test the page here
+http://www.ynotme.me/login.html
 
 Just for Study. 
