@@ -5,6 +5,7 @@ A Small Web App Using MySQL<br><br>
 
 This is my Homework for the Data Manager.<br>
 My Name is ZhangTao, My Student ID is 14211045.<br>
+My teacher is Ian, a kind man :)<br> 
 The LogIn page uses Html and CSS,(PS for the logo).And during the work, I stuied <br>
 the <a href="https://en.wikipedia.org/wiki/DigitalOcean">Digital Ocean</a>`s logIn page. Including the CSS files and Html rules.<br>
 The Digital Ocean's link is <a href="https://cloud.digitalocean.com/login">here</a> or click https://cloud.digitalocean.com/login<br>
