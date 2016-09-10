@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>TestForMySQL</title>
+<style>
+body { font-family:"proxima-nova", sans-serif;}
+@font-face {
+	font-family:proxima-nova;
+	src:url(https://fonts.typekit.net/af/03034e/00000000000000003b9ad1b1/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7) format("woff2");
+	font-weight:700;
+	font-style:normal;
+}
+</style>
+<meta name="author" content="zhangtao"/>
+<meta name="keywords" content="login,MySQL,HomeWork"/>
+<meta name="charset" content="utf-8">
+
+<link  rel="stylesheet" media="screen" href="./login.css" />
+</head>
+<body class="login">
+<img class="logo" height="35" src="./logo_0.png" alt="a logo" />
+<form class="vertical-form" id="new_user" action="//********" 
+accept-charset="UTF-8" method="post">
+<legend>Log In</legend>
+<input type="text" placeholder="UserName" name="username" value="" id="UserName"/>
+<input type="password" placeholder="PassWord" name="password" value="" id="PassWord"/>
+<input type="submit" name="commit" value="Log In"/>
+<p><a href="/forget_password">Forgot PassWord?</a></p>
+</form>
+<div class='footer'>
+<p>
+Don't have an account?
+<a href="/regist">Sign Up</a>
+</p>
+</div>
+
+</body>
